@@ -6,7 +6,7 @@ import pandas as pd
 import random
 
 # Read the dataset into a pandas DataFrame
-df = pd.read_csv('https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBMSkillsNetwork-AI0273EN-SkillsNetwork/labs/v1/m1/data/synthetic_dataset.csv')
+df = pd.read_csv('https://example.com/replace-with-own-dataset/synthetic_dataset.csv')
 print(df.head())
 
 # Replace the entries under the 'Name' attribute with pseudonyms like "User_i"

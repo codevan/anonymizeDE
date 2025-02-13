@@ -1,11 +1,24 @@
-# anonymizeDE
+## Disclaimer and caution: This script/file was generated via generative AI 
+####   Thursday February 13, 2025, without prejudice
+# anonymizeDE README.md
+
+This repo contains data engineering scripts was generated via generative AI 
+Some may not have been fully tested, so use with caution.  
+Provided without prejudice as examples on how to use generative AI for data engineering.
+
+## Anonymisation
 Anonymisation of data by using the following strategies.
 1. Pseudonymisation
 1. Redaction
 1. Generalisation
 1. Noise addition
 
-Environment prep:
+## Dataframe
+AI generated examples on working with dataframes:
+1. CSV2dataframe.py 
+
+
+## Example environment prep:
 
 `python3 -m pip install pandas`
 
@@ -17,4 +30,4 @@ Environment prep:
 
 `python3 -m pip install seaborn`
 
-Code generated from chatgpt_mini
+
